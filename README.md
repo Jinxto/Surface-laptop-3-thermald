@@ -11,3 +11,6 @@ Install 50-surface.conf to `/etc/sysctl.d/` using gedit.
 # Step 3 
 Install thermald.service to `/lib/systemd/system/` and overwrite the old one.
  Maybe install to `/usr/lib/systemd/system/` too. Both using gedit.
+`systemctl daemon-reload`
+`systemctl restart udev`
+`systemctl restart thermald`
