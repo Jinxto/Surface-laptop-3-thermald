@@ -1,7 +1,3 @@
-Sure! Here's an improved version of your README with added details in the overview and a new key features section. I've also used unique GitHub text fonts and improved readability.
-
----
-
 # Surface Laptop 3 Thermald
 
 A step-by-step guide to managing thermals on Surface Laptop 3.
